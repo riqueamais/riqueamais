@@ -1,7 +1,9 @@
 Olá! 👋
+
 Meu nome é Henrique, e eu sou Jovem Apaixonado por Programação e atualmente estou cursando ADS (Análise e Desenvolvimento de Sistemas) na <a href="https://www.unisanta.br">Universidade Santa Cecilia - Unisanta</a>
 
 🌱 O que estou aprendendo
+
 Atualmente, estou focado em aprender html/css/javascript e python, estou sempre aberto a aprender coisas novas.
 
 <p align="left">
@@ -13,6 +15,7 @@ Atualmente, estou focado em aprender html/css/javascript e python, estou sempre 
 
 
 📫 Como entrar em contato
+
 Se você quiser entrar em contato comigo, pode me encontrar em @riqueamais no instagram ou me enviar um e-mail em (henrique.quintino99@gmail.com).
 
 👀 Estatísticas do GitHub
@@ -27,4 +30,5 @@ Se você quiser entrar em contato comigo, pode me encontrar em @riqueamais no in
 
 
 🎉 Agradecimentos
+
 Agradeço por visitar meu perfil no Github. Se você gostou dos meus projetos ou quer entrar em contato comigo, sinta-se à vontade para fazê-lo.
