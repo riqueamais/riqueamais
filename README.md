@@ -8,7 +8,14 @@ Atualmente, estou focado em aprender html/css/javascript e estou sempre aberto a
 Se você quiser entrar em contato comigo, pode me encontrar em @riqueamais no instagram ou me enviar um e-mail em (henrique.quintino99@gmail.com).
 
 👀 Estatísticas do GitHub
-[![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=riqueamais&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+<p align="left">
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riqueamais&layout=compact&theme=radical" alt="riqueamais :: Top Langs" /></a>
+</p>
+
 
 
 🎉 Agradecimentos
