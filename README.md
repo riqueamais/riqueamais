@@ -1,5 +1,5 @@
 Olá! 👋
-Meu nome é Henrique, e eu sou Jovem Apaixonado por Programação e atualmente estou cursando ADS (Análise e Desenvolvimento de Sistemas).
+Meu nome é Henrique, e eu sou Jovem Apaixonado por Programação e atualmente estou cursando ADS (Análise e Desenvolvimento de Sistemas) na <a href="https://www.unisanta.br">Universidade Santa Cecilia - Unisanta</a>
 
 🌱 O que estou aprendendo
 Atualmente, estou focado em aprender html/css/javascript e python, estou sempre aberto a aprender coisas novas.
