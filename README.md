@@ -23,7 +23,7 @@ Se você quiser entrar em contato comigo, pode me encontrar em @riqueamais no in
 
 
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riqueamais&langs_count=6&layout=compact&theme=radical" alt="Linguagens mais usadas" />
 </p>
 
