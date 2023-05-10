@@ -16,7 +16,8 @@ Atualmente, estou focado em aprender html/css/javascript e python, estou sempre 
 
 📫 Como entrar em contato
 
-Se você quiser entrar em contato comigo, pode me encontrar em @riqueamais no instagram ou me enviar um e-mail em (henrique.quintino99@gmail.com).
+<p>Se você quiser entrar em contato comigo, pode me encontrar em <a href="mailto:henrique.quintino99@gmail.com"><img src="https://img.icons8.com/color/24/000000/gmail-new.png"/> henrique.quintino99@gmail.com</a>.</p>
+
 
 👀 Estatísticas do GitHub
 
