@@ -24,7 +24,7 @@ Se você quiser entrar em contato comigo, pode me encontrar em @riqueamais no in
 
 
 <p align="left">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?riqueamais=riqueamais&layout=compact&theme=radical" alt="riqueamais :: Top Langs"/></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riqueamais&layout=compact&theme=radical" alt="riqueamais :: Top Langs"/></a>
 </p>
 
 
