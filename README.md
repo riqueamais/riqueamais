@@ -16,7 +16,7 @@ Atualmente, estou focado em aprender html/css/javascript e python, estou sempre 
 
 📫 Como entrar em contato
 
-<p>Se você quiser entrar em contato comigo, pode me encontrar em <a href="mailto:henrique.quintino99@gmail.com"><img src="https://img.icons8.com/color/24/000000/gmail-new.png"/> henrique.quintino99@gmail.com</a>.</p>
+<p>Se você quiser entrar em contato comigo, pode me encontrar em <a href="mailto:henrique.quintino99@gmail.com" style="display: flex; align-items: center;"><img src="https://img.icons8.com/color/24/000000/gmail-new.png" width="20" height="20" style="margin-right: 5px;"/>henrique.quintino99@gmail.com</a>.</p>
 
 
 👀 Estatísticas do GitHub
