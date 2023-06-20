@@ -4,7 +4,7 @@ Meu nome é Henrique, e eu sou Jovem Apaixonado por Programação e atualmente e
 
 🌱 O que estou aprendendo
 
-Atualmente, estou focado em aprender javascript, estou sempre aberto a aprender coisas novas.
+Atualmente, estou focado em aprender javascript, typescript e next.js. Estou sempre aberto a aprender coisas novas.
 
 <p align="left">
   <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
