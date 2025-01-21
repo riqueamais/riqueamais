@@ -2,12 +2,6 @@
 
 Meu nome é Henrique e eu sou um Desenvolvedor Frontend, Formado em ADS (Análise e Desenvolvimento de Sistemas) na <a href="https://www.unisanta.br">Universidade Santa Cecilia - Unisanta</a>
 
-🌱 O que estou aprendendo
-
-Atualmente, estou focado em aprender:
-
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-
 📫 Como entrar em contato
 
 <p>Se você quiser entrar em contato comigo, pode me encontrar em: <a href="mailto:henrique.quintino99@gmail.com" <b>henrique.quintino99@gmail.com</b>  <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" width="18" height="18"/></a></p>
