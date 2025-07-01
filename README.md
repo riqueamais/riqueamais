@@ -1,17 +1,17 @@
-# Olá! 👋
+# Hey there! 👋
 
-Meu nome é Henrique e eu sou um Desenvolvedor Frontend, Formado em ADS (Análise e Desenvolvimento de Sistemas) na <a href="https://www.unisanta.br">Universidade Santa Cecilia - Unisanta</a>
+My name is Henrique and I'm a Full Stack Developer. I graduated in Systems Analysis and Development from <a href="https://www.unisanta.br">Universidade Santa Cecilia - Unisanta</a>.
 
-📫 Como entrar em contato
+📫 How to reach me
 
-<p>Se você quiser entrar em contato comigo, pode me encontrar em: <a href="mailto:henrique.quintino99@gmail.com" <b>henrique.quintino99@gmail.com</b>  <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" width="18" height="18"/></a></p>
+<p>If you want to get in touch, you can find me at: <a href="mailto:henrique.quintino99@gmail.com"><b>henrique.quintino99@gmail.com</b> <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" width="18" height="18"/></a></p>
 
-👀 Estatísticas do GitHub
+👀 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riqueamais&langs_count=6&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riqueamais&langs_count=6&layout=compact&theme=radical" alt="Most used languages" />
 </p>
 
-🎉 Agradecimentos
+🎉 Thanks
 
-Agradeço por visitar meu perfil no Github. Se você gostou dos meus projetos ou quer entrar em contato comigo, sinta-se à vontade para fazê-lo.
+Thanks for stopping by my GitHub profile! If you like my projects or want to connect, feel free to reach out.
