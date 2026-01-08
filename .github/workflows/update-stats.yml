@@ -38,5 +38,8 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add language_stats.svg
-          git diff --staged --quiet || (git commit -m "Update language statistics" && git push)
+          if ! git diff --quiet language_stats.svg; then
+            git add language_stats.svg
+            git commit -m "Update language statistics"
+            git push
+          fi

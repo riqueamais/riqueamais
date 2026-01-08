@@ -53,7 +53,12 @@ def get_username() -> str:
     if github_repo and '/' in github_repo:
         return github_repo.split('/')[0]
     
-    # Fall back to default
+    # Check for explicit username in environment
+    username = os.environ.get('GITHUB_USERNAME')
+    if username:
+        return username
+    
+    # Fall back to default for this specific repository
     return 'riqueamais'
 
 
@@ -65,7 +70,7 @@ def fetch_repositories(username: str, token: str = None) -> List[Dict]:
     
     headers = {'Accept': 'application/vnd.github.v3+json'}
     if token:
-        headers['Authorization'] = f'token {token}'
+        headers['Authorization'] = f'Bearer {token}'
     
     while True:
         url = f'https://api.github.com/users/{username}/repos'
@@ -98,7 +103,7 @@ def fetch_language_stats(repos: List[Dict], token: str = None) -> Dict[str, int]
     
     headers = {'Accept': 'application/vnd.github.v3+json'}
     if token:
-        headers['Authorization'] = f'token {token}'
+        headers['Authorization'] = f'Bearer {token}'
     
     for repo in repos:
         languages_url = repo.get('languages_url')
