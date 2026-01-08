@@ -9,7 +9,7 @@ My name is Henrique and I'm a Full Stack Developer. I graduated in Systems Analy
 👀 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riqueamais&langs_count=6&layout=compact&theme=radical" alt="Most used languages" />
+  <img src="./language_stats.svg" alt="Most used languages" />
 </p>
 
 🎉 Thanks
