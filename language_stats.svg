@@ -3,26 +3,26 @@
   <text x="20" y="40" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#c9d1d9">Most Used Languages</text>
   <text x="20" y="70.0" font-family="Arial, sans-serif" font-size="14" fill="#c9d1d9" dominant-baseline="middle">TypeScript</text>
   <rect x="150" y="60" width="220" height="20" fill="#21262d" rx="4"/>
-  <rect x="150" y="60" width="103.43533721764125" height="20" fill="#2b7489" rx="4"/>
-  <text x="380" y="70.0" font-family="Arial, sans-serif" font-size="14" fill="#8b949e" text-anchor="end" dominant-baseline="middle">47.0%</text>
+  <rect x="150" y="60" width="105.2965766644088" height="20" fill="#2b7489" rx="4"/>
+  <text x="380" y="70.0" font-family="Arial, sans-serif" font-size="14" fill="#8b949e" text-anchor="end" dominant-baseline="middle">47.9%</text>
   <text x="20" y="105.0" font-family="Arial, sans-serif" font-size="14" fill="#c9d1d9" dominant-baseline="middle">CSS</text>
   <rect x="150" y="95" width="220" height="20" fill="#21262d" rx="4"/>
-  <rect x="150" y="95" width="36.07602337497012" height="20" fill="#563d7c" rx="4"/>
-  <text x="380" y="105.0" font-family="Arial, sans-serif" font-size="14" fill="#8b949e" text-anchor="end" dominant-baseline="middle">16.4%</text>
+  <rect x="150" y="95" width="35.499981578209" height="20" fill="#563d7c" rx="4"/>
+  <text x="380" y="105.0" font-family="Arial, sans-serif" font-size="14" fill="#8b949e" text-anchor="end" dominant-baseline="middle">16.1%</text>
   <text x="20" y="140.0" font-family="Arial, sans-serif" font-size="14" fill="#c9d1d9" dominant-baseline="middle">HTML</text>
   <rect x="150" y="130" width="220" height="20" fill="#21262d" rx="4"/>
-  <rect x="150" y="130" width="34.470419833587265" height="20" fill="#e34c26" rx="4"/>
-  <text x="380" y="140.0" font-family="Arial, sans-serif" font-size="14" fill="#8b949e" text-anchor="end" dominant-baseline="middle">15.7%</text>
+  <rect x="150" y="130" width="33.920015417622004" height="20" fill="#e34c26" rx="4"/>
+  <text x="380" y="140.0" font-family="Arial, sans-serif" font-size="14" fill="#8b949e" text-anchor="end" dominant-baseline="middle">15.4%</text>
   <text x="20" y="175.0" font-family="Arial, sans-serif" font-size="14" fill="#c9d1d9" dominant-baseline="middle">C#</text>
   <rect x="150" y="165" width="220" height="20" fill="#21262d" rx="4"/>
-  <rect x="150" y="165" width="23.060116529237433" height="20" fill="#178600" rx="4"/>
-  <text x="380" y="175.0" font-family="Arial, sans-serif" font-size="14" fill="#8b949e" text-anchor="end" dominant-baseline="middle">10.5%</text>
+  <rect x="150" y="165" width="22.691905465036857" height="20" fill="#178600" rx="4"/>
+  <text x="380" y="175.0" font-family="Arial, sans-serif" font-size="14" fill="#8b949e" text-anchor="end" dominant-baseline="middle">10.3%</text>
   <text x="20" y="210.0" font-family="Arial, sans-serif" font-size="14" fill="#c9d1d9" dominant-baseline="middle">JavaScript</text>
   <rect x="150" y="200" width="220" height="20" fill="#21262d" rx="4"/>
-  <rect x="150" y="200" width="17.013441471851248" height="20" fill="#f1e05a" rx="4"/>
-  <text x="380" y="210.0" font-family="Arial, sans-serif" font-size="14" fill="#8b949e" text-anchor="end" dominant-baseline="middle">7.7%</text>
+  <rect x="150" y="200" width="16.74178033856418" height="20" fill="#f1e05a" rx="4"/>
+  <text x="380" y="210.0" font-family="Arial, sans-serif" font-size="14" fill="#8b949e" text-anchor="end" dominant-baseline="middle">7.6%</text>
   <text x="20" y="245.0" font-family="Arial, sans-serif" font-size="14" fill="#c9d1d9" dominant-baseline="middle">Python</text>
   <rect x="150" y="235" width="220" height="20" fill="#21262d" rx="4"/>
-  <rect x="150" y="235" width="5.324343551002422" height="20" fill="#3572A5" rx="4"/>
+  <rect x="150" y="235" width="5.239327406240168" height="20" fill="#3572A5" rx="4"/>
   <text x="380" y="245.0" font-family="Arial, sans-serif" font-size="14" fill="#8b949e" text-anchor="end" dominant-baseline="middle">2.4%</text>
 </svg>
